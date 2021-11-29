@@ -1,0 +1,2351 @@
+/* nav-bar */
+
+.nav-link{
+    color: rgb(250, 79, 107) !important;
+    font-size: 1.1rem;
+    
+}
+.nav-one {
+  margin-left: 15rem;
+}
+
+@media(max-width:67.8125em){    
+.nav-one{
+    margin-left: 7rem;
+}
+ }
+    
+@media(max-width:61.9375em){    
+    .nav-one{
+        margin-left: 0;
+}
+ }
+     
+
+.nav-two {
+    margin-left: 7rem;
+}
+
+
+@media(max-width:61.9375em){    
+.nav-two{
+        margin-left: 0;
+}
+ }
+
+.nav-three {
+    margin-left: 2rem;
+    
+}
+
+
+@media(max-width:61.9375em){    
+.nav-three{
+            margin-left: 0;
+}
+ }
+    
+
+
+.nav-four {
+    margin-left: 10rem;
+
+}
+@media(max-width:61.9375em){    
+.nav-four{
+        margin-left: 0;
+}
+ }
+
+
+
+@media(max-width:58.4375em){    
+.hero-1{
+    height: 47rem;
+}
+ } 
+    
+
+.hero-1 {
+background-image: url(../images/jpg/hero-img.jpg);
+height: 38rem;
+/* height: 65rem; */
+background-repeat: no-repeat;
+}
+
+
+@media(max-width:58.4375em){    
+.hero-1{
+        height: 47rem;
+}
+ } 
+
+@media(max-width:55.25em){    
+.hero-1{
+    height: 47rem;
+}
+ } 
+   
+@media(max-width:25.125em){    
+.hero-1{
+        height: 50rem;
+}
+ }  
+
+.pic-button {
+  float: right;
+  margin-left: 40%;
+  margin-top: -30rem;
+}
+
+.fast-button {
+    position: relative;
+    right: 5%;
+}
+
+
+
+.threed-button {
+position: relative;
+left: 5%;
+}
+   
+
+ .hero-2 {
+    width: 100%;
+    height: 40rem;
+    background-repeat: no-repeat;
+} 
+
+@media(max-width:75.25em){    
+.hero-2{
+   height: 35rem;    
+}
+ } 
+
+ 
+@media(max-width:74.125em){    
+.hero-2{
+    margin-top: -3rem;     
+}
+ } 
+   
+@media(max-width:60.625em){    
+.hero-2{
+    margin-top: -4rem;     
+}
+ }  
+
+@media(max-width:58.4375em){    
+.hero-2{
+  margin-top: -9rem;
+  height: 25rem;
+  width: 40rem;     
+}
+ } 
+
+@media(max-width:56.9375em){    
+.hero-2{
+    margin-top: -11rem;   
+}
+ } 
+
+@media(max-width:54.375em){    
+.hero-2{
+    margin-top: -13rem;   
+}
+ } 
+
+
+@media(max-width:40.8125em){    
+.hero-2{
+    width: 35rem; 
+      
+}
+ }  
+
+@media(max-width:34.25em){    
+.hero-2{
+    width: 30rem;
+    
+}
+ }
+
+@media(max-width:30.9375em){    
+.hero-2{
+   width: 25rem;
+}
+ }
+    
+@media(max-width:27.1875em){    
+.hero-2{
+    height: 20rem;
+
+}
+ }
+
+@media(max-width:25.4375em){    
+.hero-2{
+   width: 24rem;
+}
+ }
+
+   
+@media(max-width:22.0625em){    
+.hero-2{
+    height: 18rem;
+}
+ }
+
+  
+@media(max-width:20.6875em){    
+.hero-2{
+   margin-top: -16rem;
+}
+ }
+/*
+@media(max-width:22.75em){    
+.hero-2{
+    margin-top: -49rem;
+}
+ }
+
+@media(max-width:22.6875em){    
+.hero-2{
+    margin-top: -47rem;
+}
+ }
+
+@media(max-width:22.4375em){    
+.hero-2{
+    margin-top: -46rem;
+}
+ }
+
+@media(max-width:20.9375em){    
+.hero-2{
+        margin-top: -49rem;
+}
+ } */
+ 
+.hero-3 {
+    height: 15rem;
+    float: right;
+    position: relative;
+    right: 11rem;
+    margin-top: -30rem;
+} 
+
+
+@media(max-width:69.625em){    
+.hero-3{
+   position: relative;
+   right: 8rem;
+}
+ }  
+ 
+@media(max-width:62.6875em){    
+.hero-3{
+    position: relative;
+    right: 5rem;
+}
+ }
+
+@media(max-width:58.4375em){    
+.hero-3{      
+margin-top: -24rem;
+position: relative;
+right: 9rem;
+height: 13rem;
+    
+}
+ }
+  
+@media(max-width:52.75em){    
+.hero-3{
+margin-top: -22rem;
+    height: 12rem;        
+    
+}
+ }
+    
+@media(max-width:37.5em){    
+.hero-3{        
+    position: relative;
+    height: 9rem; 
+    margin-top: -17rem;
+}
+ }
+
+
+@media(max-width:52.75em){    
+.hero-3{
+    position: relative;
+    margin-top: -20rem;
+    
+}
+ }
+    
+ 
+@media(max-width:30.9375em){    
+.hero-3{
+    height: 9rem;
+    position: relative;
+    right: 5rem;
+}
+ } 
+
+  
+@media(max-width:27.1875em){    
+.hero-3{
+    height: 8rem;
+    margin-top: -18rem;    
+}
+ }
+
+/*
+@media(max-width:34.8125em){    
+.hero-3{
+    position: relative;
+    top: -10rem;
+    left: -7rem;
+}
+ }
+
+ 
+@media(max-width:34.8125em){    
+.hero-3{
+    position: relative;
+    top: -14rem; 
+}
+ }
+
+@media(max-width:27.625em){    
+.hero-3{
+    position: relative;
+    left: -5rem;    
+}
+ }
+
+ 
+@media(max-width:25.125em){    
+.hero-3{
+    position: relative;
+    top: -18rem;    
+}
+ }
+
+@media(max-width:22.75em){    
+.hero-3{
+    position: relative;
+    top: -20rem;
+    left: -3rem;    
+}
+ }
+
+@media(max-width:22.6875em){    
+.hero-3{
+    position: relative;
+    top: -18rem;
+    left: -3rem;    
+}
+ }
+
+@media(max-width:22.4375em){    
+.hero-3{
+    position: relative;
+    top: -17rem;
+    left: -3rem;    
+}
+ }
+
+@media(max-width:20.9375em){    
+.hero-3{
+    position: relative;
+    top: -19rem;
+    left: -3rem;    
+}
+ } */
+
+.button {
+    background-color: rgb(248, 105, 129);
+    color: #fff;
+    padding: .5rem 1rem;
+    position: relative;
+    left: 43%;
+    top: -12rem;
+    border-radius: 10rem;
+    font-size: 1rem;
+    border-style: none;
+  
+} 
+
+@media(max-width:75.25em){    
+.button{
+   position: relative;
+   left: 36%;
+     
+}
+ } 
+
+@media(max-width:58.4375em){    
+.button{
+    position: relative;
+    top: -8rem;
+         
+}
+ }
+   
+@media(max-width:52.75em){    
+.button{
+    padding: .3rem .8rem;
+             
+}
+ } 
+
+@media(max-width:37.5em){    
+.button{
+    padding: .2rem .6rem;
+    position: relative;
+    top: -6rem;
+    font-size: .9rem;             
+}
+ } 
+
+
+@media(max-width:34.25em){    
+.button{
+   position: relative;
+   top: -8rem;
+}
+ } 
+   
+@media(max-width:30.9375em){    
+.button{
+    position: relative;
+    left:  30%;
+    font-size: .8rem;
+}
+ }
+ 
+@media(max-width:25.4375em){    
+.button{
+ /* font-size: .7rem; */
+}
+ } 
+
+ /*
+@media(max-width:68.1875em){    
+.button{
+    position: relative;
+    left:  34rem;
+}
+ } 
+  
+@media(max-width:68.0625em){    
+.button{
+        position: relative;
+        left:  34rem;
+        top: -10rem;
+}
+ }  
+
+@media(max-width:67.375em){    
+.button{
+    position: relative;
+    top: -12.2rem;
+    left: 35rem;
+}
+ }   
+
+@media(max-width:65.5em){    
+.button{
+    position: relative;
+    top: -12.2rem;
+    left: 33rem;
+}
+ }   
+    
+@media(max-width:63.6875em){    
+.button{
+    position: relative;
+    left: 34rem;
+    padding: .3rem .7rem;
+}
+ }
+ 
+   
+@media(max-width:62em){    
+.button{
+    position: relative;
+    left: 32rem;
+    padding: .3rem .7rem;
+}
+ }
+
+
+@media(max-width:59.625em){    
+.button{
+    position: relative;
+    left: 30rem;
+}
+ }
+
+ 
+@media(max-width:58.5em){    
+.button{
+        position: relative;
+        left: 15rem;
+        top: -25rem;
+}
+ }
+    
+
+@media(max-width:55.6875em){    
+.button{
+    position: relative;
+    left: 28rem;
+    top: -11.9rem;
+}
+ }
+
+ 
+@media(max-width:55.375em){    
+.button{
+    position: relative;
+    left: 12rem;
+    top: -10.3rem;
+}
+ }
+
+@media(max-width:55.8125em){    
+.button{
+        position: relative;
+        left: 12rem;
+}
+ }
+
+@media(max-width:55.6875em){    
+.button{
+    position: relative;
+    left: 12rem;
+    top: -24.9rem;
+}
+ }
+
+@media(max-width:52.75em){    
+.button{
+    position: relative;
+    top: -30rem;
+    left: 9.5rem;
+    margin: 0;
+}
+ }
+
+@media(max-width:51.625em){    
+.button{
+    position: relative;
+    left: 8rem;
+}
+ }
+
+@media(max-width:49.8125em){    
+.button{
+    position: relative;
+    left: 6rem;
+}
+ }
+    
+
+@media(max-width:47.625em){    
+.button{
+    position: relative;
+    left: 4rem;
+}
+ }
+
+@media(max-width:45.5em){    
+.button{
+    position: relative;
+    left: 2rem;
+}
+ }
+
+@media(max-width:43.75em){    
+.button{
+    position: relative;
+    left: 0rem;
+}
+ } 
+
+
+@media(max-width:40.6875em){    
+.button{
+    position: relative;
+    top: -32rem;
+}
+ }  
+
+@media(max-width:37.5em){    
+.button{
+    position: relative;
+    top: -27rem;
+}
+ }  
+    
+@media(max-width:34.8125em){    
+.button{
+    position: relative;
+    left: -3rem;
+}
+ } 
+
+@media(max-width:32.0625em){    
+.button{
+    position: relative;
+    top: -31rem;
+}
+ } 
+
+@media(max-width:29.375em){    
+.button{
+    position: relative;
+    left: -5.5rem;
+}
+ }
+
+ 
+@media(max-width:27.625em){    
+.button{
+    position: relative;
+    left: -7rem;
+}
+ }
+
+@media(max-width:25.125em){    
+.button{
+    position: relative;
+    top: -34rem;
+}
+ }
+
+@media(max-width:24.25em){    
+.button{
+    position: relative;
+    left: -9rem;
+}
+ }
+
+@media(max-width:22.75em){    
+.button{
+    position: relative;
+    top: -37rem;
+}
+ }
+
+@media(max-width:22.6875em){    
+.button{
+    position: relative;
+    top: -35rem;
+}
+ }
+
+ 
+@media(max-width:22.5625em){    
+.button{
+    position: relative;
+    top: -37rem;
+    left: 7rem;
+}
+ }
+    
+@media(max-width:22.4375em){    
+.button{
+    position: relative;
+    top: -36rem;
+    left: 7rem;
+}
+ }      
+
+@media(max-width:20.9375em){    
+.button{
+    position: relative;
+    top: -38rem;
+    left: 7rem;
+}
+ } */
+
+/* 
+.buttonone-1 {
+    background-color: rgb(248, 105, 129);
+    padding: .5rem 1rem;
+    color: #fff;
+    border-radius: 10rem;
+    font-size: 1rem;
+    float: right;
+    position: relative;
+    left: 32.5rem;
+    top: -5rem;
+    border-style: none;
+} */
+
+/* 
+@media(max-width:80.0625em){    
+.buttonone-1{
+position: relative;
+    
+}
+ } 
+    
+@media(max-width:68.0625em){    
+.buttonone-1{
+    position: relative;
+    top: -10rem;
+}
+ }  
+
+@media(max-width:67.375em){    
+.buttonone-1{
+    position: relative;
+    top: -12.2rem;
+    left: 28rem;
+}
+ }  
+
+ 
+@media(max-width:63.6875em){    
+.buttonone-1{
+    position: relative;
+    left: 30rem;
+    padding: .3rem .7rem;     
+}
+ }   
+  
+
+@media(max-width:61.5em){    
+.buttonone-1{
+    position: relative;
+    left: 26rem;
+    padding: .3rem .7rem;     
+}
+ }   
+     
+
+@media(max-width:61.5em){    
+.buttonone-1{
+    position: relative;
+    left: 26rem;
+    padding: .3rem .7rem;     
+}
+ }   
+
+@media(max-width:58.5em){    
+.buttonone-1{
+        position: relative;
+        left: -11rem;
+        top: -26.8rem;
+}
+ }   
+    
+
+
+@media(max-width:55.3125em){    
+.buttonone-1{
+    position: relative;
+    padding: .3rem .7rem;     
+}
+ }   
+
+@media(max-width:52.75em){    
+.buttonone-1{
+    position: relative;
+    left: -12rem;
+    top: -31.9rem;    
+}
+ }   
+    
+
+@media(max-width:43.75em){    
+.buttonone-1{
+    position: relative;
+    left: -5rem;
+    top: -31.9rem;    
+}
+ }   
+
+@media(max-width:40.6875em){    
+.buttonone-1{
+    position: relative;
+    left: -5rem;
+    top: -33.9rem;    
+}
+ }   
+    
+ 
+
+@media(max-width:37.5em){    
+.buttonone-1{
+    position: relative;
+    top: -28.8rem;    
+}
+ }    
+
+@media(max-width:34.8125em){    
+.buttonone-1{
+    position: relative;
+    left: -2rem;    
+}
+ }
+
+ 
+@media(max-width:32.0625em){    
+.buttonone-1{
+    position: relative;
+    top: -32.8rem;   
+}
+ }
+
+ 
+@media(max-width:25.125em){    
+.buttonone-1{
+    position: relative;
+    top: -35.8rem;   
+}
+ }
+
+@media(max-width:24.25em){    
+.buttonone-1{
+    position: relative;
+    left: -.2rem;  
+}
+ }
+
+ 
+@media(max-width:22.75em){    
+.buttonone-1{
+    position: relative;
+    top: -38.9rem;  
+}
+ }
+
+ 
+@media(max-width:22.6875em){    
+.buttonone-1{
+    position: relative;
+    top: -36.8rem;  
+}
+ }
+
+@media(max-width:22.4375em){    
+.buttonone-1{
+    position: relative;
+    top: -36rem;  
+}
+ }
+
+@media(max-width:20.9375em){    
+.buttonone-1{
+    position: relative;
+    top: -38rem;  
+}
+  } */
+/*  
+.buttontwo-2 {
+    background-color: rgb(248, 105, 129);
+    padding: .5rem 1rem;
+    color: #fff;
+    border-radius: 10rem;
+    font-size: 1rem;
+    float: right;
+    position: relative;
+    left: 50rem;
+    top: -7rem;  
+    border-style: none;
+} 
+
+ @media(max-width:72.4375em){    
+.buttontwo-2{
+  position: relative;
+  left: 43rem;
+  top: -9rem;
+
+}
+ } 
+
+@media(max-width:68.0625em){    
+.buttontwo-2{
+    position: relative;
+    top: -12.2rem;
+}
+ }  
+
+@media(max-width:67.375em){    
+.buttontwo-2{
+    position: relative;
+    top: -12.2rem;
+    left: 45rem;
+}
+ }  
+
+@media(max-width:66.5em){    
+.buttontwo-2{
+    position: relative;
+    top: -14.3rem;
+    left: 38rem;
+}
+ }  
+    
+@media(max-width:63.6875em){    
+.buttontwo-2{
+        position: relative;
+        padding: .3rem .7rem;
+        top: -13.9rem;
+        left: 40rem;
+}
+ }   
+
+@media(max-width:61.375em){    
+.buttontwo-2{
+    position: relative;
+    left: 46rem;
+    padding: .3rem .7rem;
+}
+ }
+        
+@media(max-width:61.5em){    
+.buttontwo-2{
+    position: relative;
+    left: 42.5rem;
+    top: -12.2rem;
+    padding: .3rem .7rem;
+}
+ }
+       
+@media(max-width:60.6875em){    
+.buttontwo-2{
+    position: relative;
+    left: 35.5rem;
+    top: -14rem;
+    padding: .3rem .7rem;
+}
+ }
+     
+    
+@media(max-width:58.5em){    
+.buttontwo-2{
+    position: relative;
+    left: 7rem;
+    margin-right: 2rem;
+    top: -26.8rem;
+   
+}
+ }
+       
+  
+@media(max-width:55.3125em){    
+.buttontwo-2{
+    position: relative;
+    left: 5rem;
+    margin: 0;
+
+   
+}
+ }
+   
+@media(max-width:53em){    
+.buttontwo-2{
+    position: relative;
+    left: 28rem;     
+}
+ }
+@media(max-width:52.9375em){    
+    .buttontwo-2{
+        position: relative;
+        left: 3rem; 
+        top: -26.8rem;    
+}
+ }
+@media(max-width:52.75em){    
+.buttontwo-2{
+    position: relative;
+    left: 3rem; 
+    top: -32rem;    
+}
+ }
+
+@media(max-width:43.75em){    
+.buttontwo-2{
+    position: relative;
+    left: -5rem; 
+    top: -28rem;    
+}
+ } 
+
+@media(max-width:40.6875em){    
+.buttontwo-2{
+    position: relative; 
+    top: -30rem;
+    left: -10rem;    
+}
+ } 
+    
+@media(max-width:37.5em){    
+.buttontwo-2{
+    position: relative; 
+    top: -25rem;
+    left: -8rem;
+}
+ } 
+
+ 
+@media(max-width:33.1875em){    
+.buttontwo-2{
+    position: relative; 
+    top: -25rem;
+    left: -6rem;
+}
+ } 
+
+ 
+@media(max-width:32.0625em){    
+.buttontwo-2{
+    position: relative; 
+    top: -29.5rem;
+    left: -5rem;
+}
+ } 
+
+@media(max-width:27.625em){    
+.buttontwo-2{
+    position: relative; 
+    left: -3rem;
+}
+ }
+
+ 
+@media(max-width:27.625em){    
+.buttontwo-2{
+    position: relative; 
+    left: 1rem;
+}
+ }
+
+@media(max-width:25.125em){    
+.buttontwo-2{
+    position: relative; 
+     top: -33rem;   
+}
+ }
+
+@media(max-width:24.25em){    
+.buttontwo-2{
+    position: relative; 
+    top: -33rem; 
+    left: 2rem;  
+}
+ }
+
+ 
+@media(max-width:22.75em){    
+.buttontwo-2{
+    position: relative; 
+    top: -35rem;    
+}
+ }
+
+@media(max-width:22.6875em){    
+.buttontwo-2{
+    position: relative; 
+    top: -33rem;    
+}
+ }
+
+@media(max-width:22.4375em){    
+.buttontwo-2{
+    position: relative; 
+    top: -33rem;    
+}
+ }
+ 
+@media(max-width:20.9375em){    
+.buttontwo-2{
+    position: relative; 
+    top: -35rem;    
+}
+ }
+
+ 
+@media(max-width:20.6875em){    
+.buttontwo-2{
+    position: relative; 
+    top: -36rem; 
+    left: -3rem;
+}
+ } */
+
+.one-1 {
+    margin-left: 1%;
+}
+
+.two-2 {
+   margin-left: 14%;
+   position: relative;
+   right:  15%;
+}
+.payragraph-1 {
+    font-size: 1.9rem;
+    color: orange;
+    position: relative;
+    top: 2rem;
+    margin-left: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    /* width: 20rem; */
+    
+}
+
+
+@media(max-width:58.4375em){    
+.payragraph-1{
+        position: relative;
+        top: 22rem;
+}
+ }
+           
+
+@media(max-width:52.75em){    
+.payragraph-1{
+    position: relative;
+    top: 22rem;
+}
+ }
+        
+
+@media(max-width:43.75em){    
+.payragraph-1{
+    position: relative;
+    top: 22rem;
+    font-size: 1.5rem;
+}
+ }
+
+@media(max-width:37.5em){    
+.payragraph-1{
+        position: relative;
+        top: 18rem;
+        font-size: 1.5rem;
+}
+ }
+
+
+.payragraph-2 {
+  font-size: 1.6rem;
+  color: rgb(255, 82, 111);
+  position: relative;
+  top: 1rem;
+  left: 1rem;
+  /* width: 40rem; */
+ font-family: sans-serif;
+ line-height: 2.5rem;
+ width: 33%; 
+}
+
+
+@media(max-width:58.4375em){    
+.payragraph-2{
+    margin-top: 23rem; 
+    width: 90%;
+}
+ }
+
+
+@media(max-width:52.75em){    
+.payragraph-2{
+    margin-top: 23rem; 
+    width: 90%;
+}
+ }
+
+ 
+@media(max-width:52.75em){    
+.payragraph-2{
+    font-size: 1.4rem;
+}
+ }
+
+@media(max-width:37.5em){    
+.payragraph-2{
+    font-size: 1.4rem;
+    margin-top: 18rem;
+}
+ }
+    
+@media(max-width:22.125em){    
+.payragraph-2{
+   font-size: 1.3rem;
+}
+ }
+  
+@media(max-width:43.4375em){    
+.payragraph-2{
+       font-size: 1.2rem;
+}
+ }
+
+.heading-5 {
+    font-size: 1.3rem;
+    width: 35%;
+    /* margin-top: -2rem; */
+    color: rgb(88, 86, 86);
+    position: relative;
+    left: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    line-height: 1.8rem;
+    
+}
+
+
+@media(max-width:58.4375em){    
+.heading-5{
+      width: 90%;
+}
+ }
+
+
+@media(max-width:52.75em){    
+.heading-5{
+  width: 90%;
+}
+ }
+  
+@media(max-width:43.75em){    
+.heading-5{
+    font-size: 1.2rem;
+}
+ }
+
+ 
+@media(max-width:22.125em){    
+.heading-5{
+    font-size: 1.1rem;
+}
+ }
+ 
+@media(max-width:22.6875em){    
+.heading-5{
+    font-size: 1.1rem;
+}
+ }
+       
+
+.button-three-3{
+    background-color: rgb(255, 82, 111);
+    color: #fff;
+    padding: .3rem 5rem;
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+    border-radius: 5rem;
+    border-style: none;
+    font-size: 1.3rem;
+}
+
+@media(max-width:43.75em){    
+.button-three-3{
+   font-size: 1.1rem;
+}
+ }
+    
+@media(max-width:21.125em){    
+.button-three-3{
+    font-size: 1.1rem;
+    position: relative;
+    right:  5% !important;
+}
+ } 
+
+@media(max-width:20.9375em){    
+.button-three-3{
+    /* font-size: 1.1rem; */
+    position: relative;
+    right:  10% !important;
+}
+ }
+
+/* secend */
+
+.secend {
+    background-color: rgb(235, 229, 229);
+    height: 125rem;
+    margin-top: -2rem;
+ 
+}
+
+@media(max-width:65.125em){    
+.secend  {  
+    height: 155rem;
+}
+ } 
+
+@media(max-width:20.6875em){    
+.secend  {  
+ 
+}
+ }   
+
+@media(max-width:47.9375em){    
+.secend  {  
+        height: 175rem;
+}
+ } 
+  
+@media(max-width:41.1875em){    
+.secend  {  
+            height: 180rem;
+}
+ } 
+      
+
+@media(max-width:33.3125em){    
+.secend  {  
+    height: 210rem;
+}
+ } 
+
+ 
+@media(max-width:30.1875em){    
+.secend  {  
+        height: 215rem;
+}
+ } 
+     
+                 
+@media(max-width:28.1875em){    
+.secend  {  
+     height: 220rem;
+     background-repeat: no-repeat;
+}
+ } 
+        
+                
+@media(max-width:20.75em){    
+.secend  {  
+    height: 230rem;
+    background-repeat: no-repeat;
+}
+ } 
+     
+
+
+.secend-heading-1 {
+    position: relative;
+    top: 5rem;
+    left: 5rem;
+    font-family: sans-serif;
+    color: rgb(255, 82, 111);
+    font-size: 3rem;
+    width: 20rem;
+    text-align: center;
+    line-height: 4rem;
+}
+
+
+@media(max-width:63.125em){    
+.secend-heading-1  {  
+    position: relative;
+    left: 3rem;
+}
+ } 
+
+@media(max-width:53.25em){    
+.secend-heading-1 {     
+    position: relative;
+    left: 1.5rem;
+}
+ } 
+
+@media(max-width:47.9375em){    
+.secend-heading-1 {     
+    font-size: 2rem;
+    width: 15rem;
+    line-height: 1.2;
+    margin: auto;
+    position: relative;
+    top: 1rem;
+    left: -1rem;
+}
+ } 
+    
+@media(max-width:20.6875em){    
+.secend-heading-1 {     
+    font-size: 1.9rem;
+    line-height: 1.1;
+    text-align: center;
+    /* margin-left: 3rem; */
+    margin-top: 2rem;
+    width: 11rem;
+  
+}
+ } 
+
+.secend-payragraph {
+    margin-top: 5rem;
+    font-size: 1.2rem;
+    /* width: 26rem; */
+    width: 34%;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 1.7rem;
+    color: rgb(61, 60, 60);
+    margin-top: 6rem;
+    position: relative;
+    left: 3rem;
+}
+
+@media(max-width:63.125em){    
+.secend-payragraph {
+      width: 23rem;    
+}
+ } 
+    
+@media(max-width:55.9375em){    
+.secend-payragraph  {
+     width: 34%;    
+}
+ } 
+    
+
+ @media(max-width:47.9375em){    
+.secend-payragraph  {
+             position: relative;
+              top: 3rem;
+              left: 0;
+              width: 50%;
+              margin: auto;  
+}
+ }      
+
+@media(max-width:33.4375em){    
+.secend-payragraph  {
+      width:60%; 
+      margin-left: 6rem;     
+}
+ }  
+ 
+@media(max-width:26.625em){    
+.secend-payragraph      {
+          width:60%; 
+          margin-left: 5rem;     
+}
+ }  
+    
+@media(max-width:26.625em){    
+.secend-payragraph      {
+     width:60%; 
+     margin-left: 5rem;     
+}
+ }  
+        
+
+@media(max-width:24.5em){    
+.secend-payragraph      {
+         width:70%; 
+         margin-left: 3rem;     
+}
+ }  
+
+@media(max-width:21.9375em){    
+.secend-payragraph    {
+    width: 80%;  
+    margin-left: 2rem;
+}
+ }  
+
+.secend-button {
+     padding: .5rem 3rem;
+    border-radius: 10rem;
+    background-color: rgb(255, 82, 111);
+    color: #fff;
+    font-size: 1rem;
+    border-style: none;
+    position: relative;
+    left: 11%;
+} 
+
+@media(max-width:47.9375em){    
+.secend-button{
+    position: relative;
+    top: 8rem;
+    left: 35%;  
+}
+ } 
+    
+@media(max-width:36.4375em){    
+.secend-button{
+        position: relative;
+        left: 30%;  
+}
+ }
+ 
+@media(max-width:30.1875em){    
+.secend-button{
+    position: relative;
+    left: 25%;
+       
+}
+ } 
+
+ 
+@media(max-width:24.5em){    
+.secend-button     {
+    position: relative;
+    left: 20%;    
+}
+ } 
+     
+@media(max-width:21.9375em){    
+.secend-button     {
+    position: relative;
+    left: 17%;    
+}
+ } 
+
+
+.vedio {
+    width: 50%;
+    margin-left: 45%;
+    margin-top: -18rem;
+}
+
+@media(max-width:63.125em){    
+.vedio{
+    width: 45%;
+    position: relative;
+    top: -4rem;
+    left: 4rem;
+}
+ } 
+    
+@media(max-width:47.9375em){    
+.vedio{
+ margin-top: 15rem !important;
+margin: auto;
+margin-left: 15%;
+width: 55%;
+}
+ } 
+      
+@media(max-width:36.4375em){    
+.vedio{
+ position: relative;
+ left: 7%;  
+}
+ } 
+
+
+@media(max-width:30.1875em){    
+.vedio{
+     width: 70%;
+     position: relative;
+     left: 0;
+}
+ } 
+    
+
+@media(max-width:28.4375em){    
+.vedio{
+         width: 80%;
+         position: relative;
+         left: -5%;     
+}
+ } 
+        
+
+
+.secend-payragraph-2 {
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 5rem;
+    font-family: sans-serif;
+    color:  rgb(255, 82, 111);
+}
+.secend-payragraph-3 {
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 5rem;
+    font-family: sans-serif;
+    color:  rgb(255, 82, 111);
+}
+
+    
+@media(max-width:40.125em){    
+.secend-payragraph-3{
+   width: 80%;
+   position: relative;
+   left: 3rem;
+}
+ } 
+    
+
+@media(max-width:31.375em){    
+.secend-payragraph-3{
+       width: 90%;
+       position: relative;
+       left: 1.2rem;
+       text-align: left;
+}
+ } 
+
+.secend-payragraph-4 {
+    font-size: 1.3rem;
+    margin: auto;
+    width:37%;
+    position: relative;
+    left: 4.2%;
+    font-family: sans-serif;
+    color: rgb(61, 60, 60);
+}
+
+
+@media(max-width:76.375em){    
+.secend-payragraph-4{
+    width: 30rem; 
+    
+}
+ } 
+
+@media(max-width:53.125em){    
+.secend-payragraph-4{
+   width: 60%;
+}
+ } 
+    
+@media(max-width:46.75em){    
+.secend-payragraph-4{
+    position: relative;
+    left:   1rem !important;
+}
+ }     
+    
+@media(max-width:40.125em){    
+.secend-payragraph-4{
+ width: 70%;
+}
+ } 
+
+@media(max-width:34.0625em){    
+.secend-payragraph-4{
+      width: 80%;
+}
+ } 
+
+ 
+@media(max-width:31.375em){    
+.secend-payragraph-4{
+    margin-right: 5rem;
+    /* width: 90%; */
+         
+}
+ } 
+    
+
+.secend-payragraph-5 {
+    text-align: center;
+    /* margin: auto; */
+    position: relative;
+    right: 4%;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    color:  rgb(255, 82, 111);
+}
+
+ 
+@media(max-width:40.125em){    
+.secend-payragraph-5{
+    width: 80%;
+    position: relative;
+    left: 1.5rem;
+}
+ } 
+
+@media(max-width:31.375em){    
+.secend-payragraph-5{
+           width: 80%;
+           position: relative;
+           left: 1.2rem;
+           text-align: left;
+}
+ }
+
+@media(max-width:25.1875em){    
+.secend-payragraph-5{
+   width: 90%;
+}
+ } 
+    
+
+.secend-payragraph-6 {
+    width: 41%;
+    margin: auto;
+    position: relative;
+    left: 2.5%;
+    font-size: 1.3rem;
+    font-family: sans-serif;
+    color: rgb(61, 60, 60);
+}
+
+@media(max-width:76.375em){    
+.secend-payragraph-6{
+    width: 30rem; 
+    position: relative;
+    left: .5rem;
+}
+ } 
+
+
+@media(max-width:57.5em){    
+.secend-payragraph-6{
+   position: relative;
+   left:  1.2rem;
+}
+ }     
+
+
+@media(max-width:53.125em){    
+.secend-payragraph-6{
+       width: 60%;
+}
+ } 
+
+@media(max-width:46.75em){    
+.secend-payragraph-6{
+    position: relative;
+    left:   -.1rem !important;
+}
+ } 
+            
+@media(max-width:40.125em){    
+.secend-payragraph-6{
+    width: 70%;
+    position: relative;
+    left: .4rem !important;
+}
+ } 
+
+@media(max-width:34.0625em){    
+.secend-payragraph-6{
+  width: 80%;
+}
+ } 
+    
+@media(max-width:31.375em){    
+.secend-payragraph-6{
+        margin-right: 5rem;
+    
+}
+ } 
+     
+ 
+@media(max-width:25.1875em){    
+.secend-payragraph-6{
+       width: 90%;
+       margin-right: 2rem;
+}
+ } 
+
+.secend-payragraph-7 {
+font-size: 1.4rem;
+text-align: center;
+margin-top: 6rem;
+color:  rgb(255, 82, 111);
+font-family: sans-serif;
+}
+.secend-payragraph-8 {
+    margin: auto;
+    text-align: center;
+   width: 37%;
+   font-size: 1.3rem;
+   font-family: sans-serif;
+   color: rgb(61, 60, 60);
+   position: relative;
+   /* right:  1%; */
+}
+
+
+@media(max-width:65em){    
+.secend-payragraph-8{
+    width: 40%;   
+}
+ } 
+    
+
+@media(max-width:60.1875em){    
+.secend-payragraph-8{
+    width: 50%;
+            
+}
+ } 
+
+
+@media(max-width:48.5em){    
+.secend-payragraph-8{
+    width: 55%;             
+}
+ } 
+
+@media(max-width:43.875em){    
+.secend-payragraph-8{
+    width: 60%;             
+}
+ } 
+
+@media(max-width:37.125em){    
+.secend-payragraph-8{
+    width: 65%;  
+   
+}
+ } 
+    
+
+/* Card One*/
+
+
+.card-one {
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    margin-left: 11rem;
+    margin-top: 7rem;
+    border: solid 4px rgb(0, 225, 255);
+    width: 13rem;
+    /* height: 29.3rem; */
+    height: 29rem;
+    text-align: center;
+
+}
+
+@media(max-width:50.1875em){    
+.card-one{
+        margin-left: 3rem;           
+}
+ }
+
+@media(max-width:33.3125em){    
+.card-one{
+  margin-left: 23%;
+  width: 50%;
+}
+ }
+
+ 
+@media(max-width:32em){    
+.card-one{
+ width: 15rem;
+    
+}
+ }
+            
+@media(max-width:28.1875em){    
+.card-one {  
+         margin-left: 21%;
+}
+ } 
+
+
+@media(max-width:25.875em){    
+.card-one {  
+    margin-left: 18%;
+}
+ }
+ 
+ 
+@media(max-width:23.375em){    
+.card-one {  
+    margin-left: 13%;
+}
+ } 
+
+@media(max-width:21.125em){    
+.card-one {  
+    margin-left: 10%;
+}
+ } 
+    
+
+
+.card-one-payragraph {
+    color:  rgb(255, 82, 111);
+    font-size: 1.5rem;
+}
+.card-one-h3-span {
+    font-size: .7rem;
+}
+.card-one-payragraph-2 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 2rem;
+}
+
+.hr-1 {
+    width: 11rem;
+}
+.card-one-payragraph-3 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 2.9rem;
+    margin-top: 2rem;
+}
+.card-one-payragraph-3-span-3 {
+    position: relative;
+    left: 5.7rem;
+}
+.hr-2 {
+    width: 11rem;
+}
+
+.card-one-payragraph-4 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 1.9rem;
+    margin-top: 2rem;
+}
+
+.card-one-payragraph-4-span-4 {
+    position: relative;
+    left: 3.5rem;
+}
+
+.hr-3 {
+    width: 11rem;
+}
+
+.card-one-payragraph-5 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 3.5rem;
+    margin-top: 2rem;
+}
+.card-one-payragraph-5-span-5 {
+    position: relative;
+    left: 6.7rem;
+}
+.hr-4 {
+    width: 11rem;
+}
+.card-one-h3 {
+    font-size: 2rem;
+    color: rgb(92, 85, 85);
+
+}
+
+.card-one-payragraph-2-span-2 {
+    position: relative;
+    left: 4rem;
+}
+.card-one-end {
+    background-color:rgb(0, 225, 255);
+    padding-bottom: 1rem;
+    color: #fff;
+    position: relative;
+    top: -.2rem;
+    padding-top: 1rem;
+/*  
+    padding-bottom: 1.5rem;
+    color: #fff;
+    position: relative;
+    top: -2.5rem;
+    padding-top: 1rem; */
+
+}
+
+/* Card  two*/
+
+.card-two {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    border: solid 4px orangered;
+    width: 13rem;
+    margin: auto;
+    margin-top: -20rem;
+   position:relative;
+   top: -9.5rem;
+    height: 29.3rem;
+   
+}
+
+@media(max-width:65.125em){    
+.card-two{
+    margin-right: 10rem;           
+}
+ } 
+    
+@media(max-width:50.1875em){    
+.card-two{
+    margin-right: 2rem;           
+}
+ }
+    
+@media(max-width:33.3125em){    
+.card-two{
+      margin-top: 16rem;
+      margin-left: 23%; 
+      width: 50%;         
+}
+ }
+  
+ 
+@media(max-width:32em){    
+.card-two{
+     width: 15rem;
+        
+}
+ }
+  
+@media(max-width:28.1875em){    
+.card-two {  
+    margin-left: 21%;
+}
+ } 
+
+@media(max-width:25.875em){    
+.card-two {  
+    margin-left: 18%;
+}
+ } 
+
+@media(max-width:23.375em){    
+.card-two {  
+        margin-left: 13%;
+}
+ } 
+
+@media(max-width:21.125em){    
+.card-two {  
+        margin-left: 10%;
+}
+ } 
+        
+
+
+.card-two-payragraph {
+     color:  rgb(255, 82, 111); 
+     font-size: 1.5rem;
+}
+.card-two-h3 {
+    font-size: 1.9rem;
+    color: rgb(92, 85, 85);
+    font-family: sans-serif;
+}
+.card-two-payragraph-2 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 2rem;
+
+    
+ 
+}
+
+.card-two-payragraph-2-span-2 {
+    position: relative;
+    left: 4rem;
+}
+.hr-1-2 {
+    width: 11rem;
+}
+.card-two-payragraph-3 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 2.8rem;
+    margin-top: 2rem;
+}
+.card-two-payragraph-3-span-3 {
+    position: relative;
+    left: 5.5rem;
+}
+.hr-2-2 {
+    width: 11rem;
+}
+.card-two-payragraph-4 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 1.9rem;
+    margin-top: 2.5rem;
+}
+.card-two-payragraph-4-span-4 {
+    position: relative;
+    left: 3.5rem;
+}
+.hr-3-2 {
+   width: 11rem;
+}
+.card-two-payragraph-5 {
+    color: rgb(92, 85, 85);
+    font-size: 1rem;
+    word-spacing: 1px;
+    position: relative;
+    right: 3.2rem; 
+    margin-top: 2.5rem;
+}
+.card-two-payragraph-5-span-5 {
+    position: relative;
+    left: 6.5rem; 
+}
+.hr-4-2 {
+    width: 11rem;
+}
+
+.card-one-end-2 {
+     background-color:orangered;
+     padding-bottom: 1rem;
+     color: #fff;
+     position: relative;
+     top: -.9rem;
+     padding-top: 1rem;
+}
+
+/* Card-three */
+
+.card-three {
+    float: right;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1rem;
+    border: solid 4px rgb(250, 72, 101);
+    width: 13rem;
+    position: relative;
+    height: 29.3rem;
+    margin-top: -39.3rem;
+    margin-right: 10.8rem;
+
+}
+
+@media(max-width:65.125em){    
+.card-three {
+    margin: 0;
+    float: left;
+  position: relative;
+  left: 11rem;
+  
+}
+ } 
+
+@media(max-width:50.1875em){    
+.card-three{
+    position: relative;
+    right: 6rem;         
+}
+ }
+
+@media(max-width:33.3125em){    
+.card-three{
+    width: 50%;
+  margin-left: 24%;
+  margin-top: -2rem;
+  position: relative;
+  right: 0;
+  left: 0;         
+}
+ }
+  
+ 
+@media(max-width:32em){    
+.card-three{
+         width: 15rem;
+            
+}
+ }
+
+
+@media(max-width:28.1875em){    
+.card-three {  
+    margin-left: 21%;
+}
+ } 
+
+@media(max-width:25.875em){    
+.card-three {  
+    margin-left: 18%;
+}
+ } 
+    
+@media(max-width:23.375em){    
+.card-three {  
+    margin-left: 14%;
+}
+ } 
+
+@media(max-width:21.125em){    
+.card-three {  
+    margin-left: 10%;
+}
+ } 
+
+
+
+.card-one-end-3 {
+    background-color:rgb(250, 72, 101);
+    padding-bottom: 1.3rem;
+    color: #fff;
+    position: relative;
+    top: -1rem;
+    padding-top: 1.3rem;
+    font-size: 1.1rem;
+}
+
+.button-contact {
+    background-color: rgb(250, 72, 101);
+    color: #fff;
+    padding: .3rem 5rem;
+    font-size: 1.3rem;
+    border-radius: 5rem;
+    border-style: none;
+   margin-left: 40%;
+   margin-top: -3rem;
+
+}
+
+@media(max-width:65.125em){    
+.button-contact{
+     margin-top: 37rem;
+     margin-left: 15%;
+}
+ } 
+
+@media(max-width:55.125em){    
+.button-contact{
+        
+         margin-left: 10%;
+}
+ } 
+
+
+@media(max-width:47.9375em){    
+.button-contact{
+ margin-left: -3%;
+}
+ } 
+
+
+
+@media(max-width:39.5em){    
+.button-contact{
+
+ margin-left: -8%;
+}
+ } 
+    
+
+@media(max-width:34.1875em){    
+.button-contact{
+
+     margin-left: -17%;
+}
+ } 
+
+@media(max-width:33.3125em){    
+.button-contact{
+    margin: 0;
+    margin-top: 8rem;
+    margin-left: 24%;
+  
+}
+ } 
+
+@media(max-width:30.375em){    
+.button-contact{
+margin-left: 22%;
+      
+}
+ } 
+    
+@media(max-width:28.25em){    
+.button-contact{
+    margin-left: 19%;
+          
+}
+ } 
+
+  
+@media(max-width:25.8125em){    
+.button-contact{
+    margin-left: 15%;
+              
+}
+ } 
+
+@media(max-width:23em){    
+.button-contact{
+    margin-left: 11%;
+                  
+}
+ }
+
+@media(max-width:21.125em){    
+.button-contact{
+    margin-left: 8%;                     
+}
+ }
+    
+@media(max-width:20.4375em){    
+.button-contact{
+    margin-left: 6%;   
+    position: relative;
+     top: -2rem;                 
+}
+ }
+
+/* footer */
+
+.footer {
+    background-color: rgb(61, 60, 60);
+    padding: 3rem;
+   text-align: center;
+}
+
+  
+@media(max-width:20.6875em){    
+.button-contact{
+ /* margin-top: -.5rem;                 */
+}
+ }
+
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+a{
+    border-style: none;
+}
+.contect {
+    color: #fff;
+}
+.fa-instagram {
+    font-size: 2rem;
+    color: #fff;
+    margin-right: 1rem;
+}
+.fa-facebook-f {
+    font-size: 2rem;
+    color: #fff;
+    margin-left: 1rem;
+}
+.icon {
+    position: relative;
+    top: -1rem;
+}
+
